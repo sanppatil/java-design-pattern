@@ -1,1 +1,1 @@
-# Abstract Factory Pattern
+# Abstract Factory Patterns
